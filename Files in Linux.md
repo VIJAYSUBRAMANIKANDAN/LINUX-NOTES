@@ -45,7 +45,7 @@ Example: /home/your\_username.
 14. /tmp -> Stores temporary files created by programs. These files are usually deleted automatically after a reboot.
 
     ---
-15. ##### /var -> Stores data that changes frequently, such as log files, mail, cache, print queues, and databases.
+15. /var -> Stores data that changes frequently, such as log files, mail, cache, print queues, and databases.
 
 
 
